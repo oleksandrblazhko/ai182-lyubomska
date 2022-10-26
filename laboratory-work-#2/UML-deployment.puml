@@ -1,3 +1,4 @@
+@startuml  
 title Components - Component Diagram
 
  node "web browser" {
